@@ -1,0 +1,5 @@
+<key>NSSpeechRecognitionUsageDescription</key>
+<string>This app uses speech recognition to interact with the environment.</string>
+
+<key>NSMicrophoneUsageDescription</key>
+<string>This app needs microphone access to detect your voice.</string>

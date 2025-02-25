@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Captura_de_Tela_2025-02-20_Ã s_09.13.28-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
